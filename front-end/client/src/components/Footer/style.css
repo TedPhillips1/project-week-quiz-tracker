@@ -1,0 +1,19 @@
+footer {
+  background-color: #2b2d42;
+  color: white;
+  margin-top: 60px;
+  height: 200px;
+  width: 100%;
+}
+
+.credits {
+  padding: 30px;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: #e6edf0;
+}
